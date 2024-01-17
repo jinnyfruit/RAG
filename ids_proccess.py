@@ -39,7 +39,7 @@ if success:
     cnt = 0 
 
     print("\n======현황보고======\n")
-    print("일자: 2024.01.16 오전 11시 50분")
+    print("일시:01/16 14시 54분")
     print("전체 인입건:", len(input_ids))
     print("실이용 고객수:", len(output_ids))
     print("제외된 아이디 수:", len(excluded_ids))
